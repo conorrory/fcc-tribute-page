@@ -1,0 +1,71 @@
+/* Not my greatest work but it does the job and addresses the core points of the assesment */
+main{
+  display: block;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+h1, h3{
+  text-align: center;
+  color: #0f0f0f;
+  font-family: helvetica;
+}
+
+p{
+  font-family: Arial;
+}
+
+#page-header{
+  background-color: #EAD3AC;
+  padding: 10px;
+}
+
+#image{
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  max-width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#img-div{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#img-caption{
+  font-family: helvetica;
+}
+#timeline{
+  background-color: #EAD3AC;
+  padding: 10px;
+}
+tribute-link, href{
+  color: #0f0f0f;
+}
+
+#tribute-link{
+  target: blank;
+}
+
+#quote{
+  font-family: helvetica;
+  font-style: italic;
+  color: #0f0000;
+}
+
+em{
+  font-weight: bold;
+}
